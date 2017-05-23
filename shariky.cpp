@@ -1,3 +1,4 @@
+//The problem is from http://informatics.mccme.ru/mod/statements/view3.php?id=208&chapterid=1461
 #include <iostream>
 #include <vector>
 #include <cmath>
