@@ -1,3 +1,4 @@
+//The problem is from http://informatics.mccme.ru/mod/statements/view3.php?id=208&chapterid=1456
 #include <iostream>
 #include <cmath>
 using namespace std;
